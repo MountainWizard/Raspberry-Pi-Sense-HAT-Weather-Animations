@@ -14,8 +14,9 @@ Dispalys the following weather animating by calling the following funcions.
 - animation_cold()
 
 
-## Demo
+## Demovideo
+[![Demovideo](https://img.youtube.com/vi/NLTvLAJDYsI/0.jpg)](https://www.youtube.com/watch?v=NLTvLAJDYsI)
 https://www.youtube.com/watch?v=NLTvLAJDYsI
-https://youtu.be/NLTvLAJDYsI
+
 ## Bugs
-Somethins the Animations for "Sunny", "Cloudy" and "Light cloudy" have some display errors.
+Sometimes the Animations for "Sunny", "Cloudy" and "Light cloudy" have some display errors.
