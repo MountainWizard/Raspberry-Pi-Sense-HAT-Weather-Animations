@@ -2,7 +2,7 @@
 Weather Animations for the Raspberry Pi Sense HAT Matrix Display
 This Pythoin script dispalys Weatheranimations on your Raspberry PI Sense hat LED-Matrix Display. The script doesn't require and external images and can just be pasted in your code.
 ## Features
-Dispalys the following weather animating by calling the following funcions.
+Dispalys the following weather animating by calling the corresponding funcions.
 - animation_fog()
 - animation_rain()
 - animation_snow()
@@ -16,6 +16,7 @@ Dispalys the following weather animating by calling the following funcions.
 
 ## Demovideo
 [![Demovideo](https://img.youtube.com/vi/NLTvLAJDYsI/0.jpg)](https://www.youtube.com/watch?v=NLTvLAJDYsI)
+
 https://www.youtube.com/watch?v=NLTvLAJDYsI
 
 ## Bugs
